@@ -75,3 +75,18 @@ Luego en la clave de ARN agregamos nuestra clave de cifrado:
 Ahora se nos indica que la exportación se estar realizando 
 
 ![image](https://hackmd.io/_uploads/HyRUwb7np.png)
+
+Una vez finalizado tendremos lo siguiente: 
+
+![image](https://hackmd.io/_uploads/ry-1s-Qh6.png)
+
+Y al revisar el bucket tenemos: 
+
+![image](https://hackmd.io/_uploads/r1F-jZ73T.png)
+
+Nuestra carpeta bases2 fue creada
+
+![image](https://hackmd.io/_uploads/HJHAo-QhT.png)
+
+Nuestro archivo de exportación se encuentra en el bucket
+
