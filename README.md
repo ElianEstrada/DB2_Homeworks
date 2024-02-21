@@ -8,7 +8,7 @@
 
 **1. Creamos la instancia en RDS**
 
-![image](images\01.png)
+![image](./images/01.png)
 
 **2. Creamos la base de datos**
 
